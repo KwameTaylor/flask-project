@@ -1,7 +1,7 @@
-ICPSR_37877-V1.zip
 ICPSR_37877/
 geckodriver
-geckodriver.log
-ghostdriver.log
 phantomjs-2.1.1-macosx/
+ne_110m_admin_1_states_provinces/
+*.zip
+*.log
 *.csv
